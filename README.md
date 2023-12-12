@@ -5,4 +5,4 @@ Put the answer before the non-answer. The answers are ranked random, and the non
 
 Based on CNN, I implemented a QA system, and the MRR and MAP on dev_set is over 0.64.
 
-You need to prepare the needed files and put them in the "./data/trec" folder. Please refer to the files in the "./data/wiki" folder.
+You need to prepare the needed files and put them in the "./data/trec" folder. Please refer to the files in the "./data/wiki" folder .
